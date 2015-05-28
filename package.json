@@ -1,23 +1,29 @@
 {
-  "name": "vimeo-froogaloop",
+  "name": "vimeo-froogaloop-server",
   "version": "0.1.0",
-  "description": "Vimeo froogaloop library for npm (more details at vimeo's repo : https://github.com/vimeo/player-api/blob/master/readme.mdown)",
+  "description": "Standard Vimeo froogaloop library but able to be required on the server.  More details at Vimeo's repo : https://github.com/vimeo/player-api/blob/master/readme.mdown)",
   "main": "froogaloop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/edword/npm-vimeo-froogaloop"
+    "url": "https://github.com/blented/npm-vimeo-froogaloop"
   },
   "keywords": [
     "vimeo",
     "froogaloop"
   ],
-  "author": "edword (http://github.com/edowrd)",
+  "author": "blented (http://github.com/blented)",
   "license": "none",
   "bugs": {
-    "url": "https://github.com/edword/npm-vimeo-froogaloop/issues"
+    "url": "https://github.com/blented/npm-vimeo-froogaloop/issues"
   },
-  "homepage": "https://github.com/edword/npm-vimeo-froogaloop"
+  "homepage": "https://github.com/blented/npm-vimeo-froogaloop",
+  "maintainers": [
+    {
+      "name": "blented",
+      "email": "blented@github.com"
+    }
+  ]
 }
